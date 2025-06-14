@@ -1,7 +1,7 @@
-[![Nien 模擬滑鼠 (Windows & macOS)](https://i0.wp.com/cdn.jsdelivr.net/gh/chennien/press5@main/icons/256.png)](https://nien.com) 
+[![Nien Press5 快捷鍵 (Windows & macOS)](https://i0.wp.com/cdn.jsdelivr.net/gh/chennien/press5@main/icons/256.png)](https://nien.com) 
 
 
-# Nien 模擬滑鼠（Windows & macOS）
+# Nien Press5 快捷鍵（Windows & macOS）
 
 ## Windows 版
 
