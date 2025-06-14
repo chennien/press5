@@ -17,6 +17,9 @@
 * 使用 AppleScript 撰寫
 
 
+[![Nien Press5 快捷鍵 (Windows & macOS)](https://i0.wp.com/cdn.jsdelivr.net/gh/chennien/press5@main/screenshot.png)](https://nien.com) 
+
+
 ![](https://img.shields.io/github/repo-size/chennien/press5?style=flat-square) 
 ![](https://img.shields.io/github/v/release/chennien/press5?style=flat-square) 
 ![](https://img.shields.io/github/last-commit/chennien/press5?style=flat-square) 
